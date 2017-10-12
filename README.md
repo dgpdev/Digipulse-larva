@@ -24,7 +24,7 @@ The alpha version will allow you to execute and perform following actions:
 
 
 
-
+  
 
 Join the network as node
 ------------------------
