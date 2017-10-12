@@ -3,6 +3,19 @@ Digipulse Larva Release
 This guide will cover the necessary information on how to setup and test the Digipulse Alpha version, codename *Larva*.
 
 
+### Digipulse overall structure and understanding
+
+The Digipulse network is build using different modules and mainly written in nodejs. The Digipulse services will run on an web-based interface so general users don't have to struggle setting up the entire network themselfs.
+
+However, if you like to build your own private network, a tutorial will be posted after the *drone release*.
+
+Digipulse is divided in two main sections important for the global userbase
+
+  - The network Nodes, known as `dgp-node`.
+  - The backend infrastructure connecting all the nodes and providing a blockchain.
+
+During the *larva release*, the backend infrastructure is out of scope since this will not be disclosed until the *drone release* to prevent copycats.
+
 
 Alpha release terms, conditions and meaning
 -------------------------------------------
@@ -24,7 +37,7 @@ The alpha version will allow you to execute and perform following actions:
 
 
 
-  
+
 
 Join the network as node
 ------------------------
