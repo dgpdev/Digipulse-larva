@@ -12,4 +12,4 @@ To avoid flooding the network, the *larva release* will be limited to the follow
   - 100Mb file size limited.
   - No custom dead man switches.
   - All files will be released after 30 minutes.
-  - The backend code of our core application will not be disclosed until the *drone release* to prevent copycats.
+  - The backend code of our core application will not be disclosed until the ***drone release*** to prevent copycats.
