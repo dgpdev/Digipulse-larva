@@ -8,8 +8,6 @@ Join the network as node
 ------------------------
 During the alpha version, the `dgp-node` application will only run in commandline version. The graphical version will be released during the *drone release*.
 
-## Manual Installation
-
 Make sure you have the following prerequisites installed:
 
 * Git
