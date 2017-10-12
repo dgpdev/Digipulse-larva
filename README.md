@@ -18,7 +18,9 @@ During the *larva release*, the backend infrastructure is out of scope since thi
 
 #### The network Nodes
 
-@d3, please fill out in nice works what the nodes will do, and how they will earn from sharing storage.
+
+
+@d3, please fill out in nice words what the nodes will do, and how they will earn from sharing storage.
 
 
 Alpha release terms, conditions and meaning
