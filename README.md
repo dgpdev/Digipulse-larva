@@ -17,6 +17,6 @@ To avoid flooding the network, the *larva release* will be limited to the follow
 
 The alpha version will allow you to execute and perform following actions:
 
-    - Join the network as `dpg-node` and share their drives on the network.
-    - Create a personal `vault`, store files inside it and make it inheritable.
-    - Dead man swith is only available directly to the inheritor's email address during *alpha stage*.
+  - Join the network as `dpg-node` and share their drives on the network.
+  - Create a personal `vault`, store files inside it and make it inheritable.
+  - Dead man swith is only available directly to the inheritor's email address during *alpha stage*.
