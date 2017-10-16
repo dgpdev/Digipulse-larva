@@ -18,7 +18,7 @@ During the *larva release*, the backend infrastructure is out of scope since thi
 
 #### The network Nodes
 
-Network Nodes will provide decentralised file storage for DigiPulse. Node support will allow the storage providers to receive their share of DGPT tokens collected on the smart contract in return to providing storage space for file storage. The exact mechanics behind profit share and token distribution will be finalised and released alongside the Drone Phase (Beta) of the project.
+Network Nodes will provide the decentralised file storage for DigiPulse. Node support will allow the storage providers to receive their share of DGPT tokens collected on the smart contract in return for providing storage space for file storage. The exact mechanics behind profit share and token distribution will be finalised and released alongside with the Drone Phase (Beta) of the project.
 
 
 
