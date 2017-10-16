@@ -1,15 +1,15 @@
-Digipulse Larva Release
+DigiPulse Larva Release
 -----------------------
-This guide will cover the necessary information on how to setup and test the Digipulse Alpha version, codename *Larva*.
+This guide will cover the necessary information on how to setup and test the DigiPulse Alpha version, codename *Larva*.
 
 
-### Digipulse overall structure and understanding
+### DigiPulse overall structure and understanding
 
-The Digipulse network is build using different modules and mainly written in nodejs. The Digipulse services will run on an web-based interface so general users don't have to struggle setting up the entire network themselfs.
+The DigiPulse network is build using different modules and mainly written in nodejs. The DigiPulse services will run on an web-based interface so general users don't have to struggle setting up the entire network themselfs.
 
 However, if you like to build your own private network, a tutorial will be posted after the *drone release*.
 
-Digipulse is divided in two main sections important for the global userbase
+DigiPulse is divided in two main sections important for the global userbase
 
   - The network Nodes, known as `dgp-node`.
   - The backend infrastructure connecting all the nodes and providing a blockchain.
@@ -18,14 +18,13 @@ During the *larva release*, the backend infrastructure is out of scope since thi
 
 #### The network Nodes
 
+Network Nodes will provide decentralised file storage for DigiPulse. Node support will allow the storage providers to receive their share of DGPT tokens collected on the smart contract in return to providing storage space for file storage. The exact mechanics behind profit share and token distribution will be finalised and released alongside the Drone Phase (Beta) of the project.
 
-
-@d3, please fill out in nice words what the nodes will do, and how they will earn from sharing storage.
 
 
 Alpha release terms, conditions and meaning
 -------------------------------------------
-This release is published as *alpha release*. This describes the development status as the first complete public version of our application, wich could be unstable, but is useful to show what the product will do to the initial investors and contributors of Digipulse. Bugs could still occur, and no warranty is given on any of the published code.
+This release is published as *alpha release*. This describes the development status as the first complete public version of our application, wich could be unstable, but is useful to show what the product will do to the initial investors and contributors of DigiPulse. Bugs could still occur, and no warranty is given on any of the published code.
 
 **To avoid flooding the network, the *larva release* will be limited to the following specs:**
 
@@ -207,8 +206,8 @@ dgpnode daemon --foreground
 
 ## License
 
-Digipulse dgp-node for distrubuting data on the Digipulse network.  
-Copyright (C) 2017 Digipulse
+DigiPulse dgp-node for distrubuting data on the DigiPulse network.
+Copyright (C) 2017 DigiPulse
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
